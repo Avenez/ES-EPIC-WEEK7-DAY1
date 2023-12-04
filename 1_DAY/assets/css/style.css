@@ -1,0 +1,19 @@
+.i-red {
+  color: rgb(200, 200, 200);
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  border-color: rgb(255, 0, 0);
+}
+
+form {
+  top: 10px;
+}
